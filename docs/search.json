@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-04T16:39:46-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Distill Website",
+      "description": "Welcome to the website. Wow cool website!\n",
+      "author": [],
+      "contents": "\nWelcome!\nI love frogs!\nBlue frog\ngreen frog\nyellow fish\nAlso Chocolate!\nMy favorite type of chocolate is dark.\ndistillation photo\n\n\nFigure 1: This is a cool distillation photo.\n\n\n\n\n\n\n",
+      "last_modified": "2021-03-04T16:39:48-08:00"
+    }
+  ],
+  "collections": []
+}

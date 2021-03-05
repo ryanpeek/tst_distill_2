@@ -1,0 +1,43 @@
+---
+title: "My Distill Website"
+description: |
+  Welcome to the website. Wow cool website!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+# Welcome!
+
+## I love frogs!
+
+ - Blue frog
+ - green frog
+ - yellow fish
+
+### Also Chocolate!
+
+My favorite type of chocolate is dark.
+
+![distillation photo](https://upload.wikimedia.org/wikipedia/commons/e/e3/Distillation_2-3.jpg)
+
+```{r, out.width="50%", fig.cap="This is a cool distillation photo."}
+
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/e/e3/Distillation_2-3.jpg")
+
+```
+
+
+## Soccer is the best sport ever!
+
+Please work
